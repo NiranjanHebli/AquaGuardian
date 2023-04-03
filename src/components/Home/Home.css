@@ -1,0 +1,85 @@
+.home-page {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 40px;
+    background-color: aqua;
+  }
+  
+  .hero-section {
+    text-align: center;
+    margin-bottom: 80px;
+  }
+  
+  .title {
+    font-size: 4rem;
+    margin-bottom: 16px;
+    color: #1a1a1a;
+  }
+  
+  .subtitle {
+    font-size: 1.5rem;
+    margin-bottom: 32px;
+    color: #666666;
+  }
+  
+  .about-section {
+    margin-bottom: 80px;
+  }
+  
+  .section-title {
+    font-size: 2rem;
+    margin-bottom: 16px;
+    color: #1a1a1a;
+  }
+  
+  .section-text {
+    font-size: 1.25rem;
+    margin-bottom: 32px;
+    color: #666666;
+  }
+  
+  .initiatives-section {
+    margin-bottom: 80px;
+  }
+  
+  .initiatives-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-gap: 32px;
+  }
+  
+  .initiative-card {
+    padding: 32px;
+    background-color: #ffffff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .initiative-title {
+    font-size: 1.5rem;
+    margin-bottom: 16px;
+    color: #1a1a1a;
+  }
+  
+  .initiative-text {
+    font-size: 1.25rem;
+    margin-bottom: 32px;
+    color: #666666;
+  }
+  
+  .cta-section {
+    text-align: center;
+  }
+  
+  .cta-section .section-title {
+    margin-bottom: 32px;
+  }
+  
+  .cta-section .section-text {
+    margin-bottom: 64px;
+    color: #666666;
+  
+  
+  }
+
+
+  
